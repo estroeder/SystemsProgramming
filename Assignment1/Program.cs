@@ -7,6 +7,7 @@ namespace Assignment1
     {
         static void Main(string[] args)
         {
+            //testcoment
             const string SYMS = "SYMS.dat";
             FileOperations fileOperations = new FileOperations();
             SymsProcessor symsProcessor = new SymsProcessor();
