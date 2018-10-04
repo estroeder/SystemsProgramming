@@ -1,0 +1,14 @@
+RED
+PURPLE+17
+@BLACK
+#WHITE
+=CꞌDEFGꞌ
+WHITE,X
+22
+=Xꞌ5Aꞌ
+PINK+3-2
+=Xꞌ5Aꞌ
+PINK------3
+@25+-RED
+=Cꞌ5Aꞌ
+#7

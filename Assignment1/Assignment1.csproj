@@ -43,7 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Expressions\Expression.cs" />
+    <Compile Include="Expressions\ExpressionProcessor.cs" />
+    <Compile Include="Expressions\Validators\ValidateDirectAddressing.cs" />
+    <Compile Include="Expressions\Validators\ValidateImmediateAddressing.cs" />
+    <Compile Include="Expressions\Validators\ValidateIndexedAddressing.cs" />
+    <Compile Include="Expressions\Validators\ValidateIndirectAddressing.cs" />
     <Compile Include="FileOperations.cs" />
+    <Compile Include="Literals\Literal.cs" />
+    <Compile Include="Literals\LiteralProcessor.cs" />
+    <Compile Include="ParseLiteralOrExpression.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Symbols\Symbol.cs" />
